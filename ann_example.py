@@ -4,9 +4,9 @@
 @author: The Albatross
 """
 #1. 3 Classes, each with 500 data points
-#   1st class -> (-2,-2)
-#   2nd class -> (2,2)
-#   3rd class -> (0,0)
+#   1st class -> centered around (-2, 2)
+#   2nd class -> centered around (2, -2)
+#   3rd class -> centered around (2, 4)
 
 
 
